@@ -1,0 +1,11 @@
+{
+    "name": "purescript-integers",
+    "set": "master",
+    "source": "https://github.com/pure-clj/package-sets.git",
+    "depends": [
+        "effect",
+        "either",
+        "maybe",
+        "prelude"
+    ]
+}
